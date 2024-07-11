@@ -7,8 +7,8 @@ This is a simple Python quiz project where users can answer multiple-choice ques
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/E-fais/python-quiz
+   cd python-quiz
    ```
 
 2. **Run the Quiz:**
